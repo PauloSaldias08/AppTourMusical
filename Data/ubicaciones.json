@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 1,
+        "latitud": -24.7884914,
+        "longitud": -65.4122344,
+        "direccion": "España y 20 de febrero"  
+    },
+    {
+        "id" : 2,
+        "latitud": -24.7888671,
+        "longitud": -65.4067532,
+        "direccion": "España y Hernando del Lerna" 
+    },
+    {
+        "id" : 3,
+        "latitud": -24.7906593,
+        "longitud": -65.4164735,
+        "direccion": "Alvarado y Jujuy" 
+    },
+    {
+        "id" : 4,
+        "latitud": -24.7934449,
+        "longitud": -65.4126970,
+        "direccion": "San Martin y Florida" 
+    },
+    {
+        "id" : 5,
+        "latitud": -24.7927047,
+        "longitud": -65.4057018,
+        "direccion": "Catamarca y Urquiza" 
+    },
+    {
+        "id" : 6,
+        "latitud": -24.7847204,
+        "longitud": -65.4145853,
+        "direccion": "25 de Mayo y Santiago del Estero" 
+    },
+    {
+        "id" : 7,
+        "latitud": -24.7901788,
+        "longitud": -65.4056976,
+        "direccion": "Caseros y Vicente Lopez" 
+    }
+]

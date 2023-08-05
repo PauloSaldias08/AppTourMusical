@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "nombre": "Evento en Adriatico",
+        "genero": "Rock Nacional",
+        "artista": "Indio Solari",
+        "id_ubicacion": 1,
+        "hora_inicio": "2023-09-04 T 22:00:00",
+        "hora_fin": "2023-09-04 T 00:00:00",
+        "imagen":"adriatico.jpeg"
+    },
+    {
+        "id": 2,
+        "nombre": "Evento en Boulevard 53",
+        "genero": "Folklore",
+        "artista": "Chaqueño Palavecino",
+        "id_ubicacion": 2,
+        "hora_inicio": "2023-10-04 T 20:00:00",
+        "hora_fin": "2023-10-04 T 22:00:00",
+        "imagen": "boulevard53.jpeg"  
+    },
+    {
+        "id": 3,
+        "nombre": "Emperador eventos",
+        "genero": "Estilo pop",
+        "artista": "Madona",
+        "id_ubicacion": 3,
+        "hora_inicio": "2023-08-04 T 23:00:00",
+        "hora_fin": "2023-08-04 T 01:00:00",
+        "imagen": "emperador.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Fanta eventos",
+        "genero": "Movida tropical",
+        "artista": "David Leiva",
+        "id_ubicacion": 4,
+        "hora_inicio": "2023-09-04 T 20:00:00",
+        "hora_fin": "2023-09-04 T 22:00:00",
+        "imagen": "fanta.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Girardot eventos",
+        "genero": "Rock Nacional",
+        "artista": "Enanitos verdes",
+        "id_ubicacion": 5,
+        "hora_inicio": "2023-09-04 T 21:00:00",
+        "hora_fin": "2023-09-04 T 23:00:00",
+        "imagen": "girardot.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Konex eventos",
+        "genero": "Estilo pop",
+        "artista": "Britney Spears",
+        "id_ubicacion": 6,
+        "hora_inicio": "2023-09-04 T 20:00:00",
+        "hora_fin": "2023-09-04 T 22:00:00",
+        "imagen": "konex.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Teatro",
+        "genero": "Movida tropical",
+        "artista": "Bandidos",
+        "id_ubicacion": 7,
+        "hora_inicio": "2023-09-04 T 23:00:00",
+        "hora_fin": "2023-09-04 T 01:00:00",
+        "imagen": "teatro.jpg"
+        
+    }
+]

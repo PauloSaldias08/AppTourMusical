@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan",
+        "apellido": "Bautista",
+        "historial_eventos":
+         "Evento en Adriatico - Rock Nacional - Indio Solari - Fecha: 2022-09-04 T 22:00:00"
+    },
+    {
+        "id": 2,
+        "nombre": "Sebastian",
+        "apellido": "Perez",
+        "historial_eventos": "Evento en Fanta - Folcklore - Chaqueño Palavecino - Fecha: 2021-09-04 T 22:00:00"
+    },
+    {
+        "id": 3,
+        "nombre": "Ernesto",
+        "apellido": "Sabadu",
+        "historial_eventos": "Evento en Teatro - Movida tropical - Bandidos - Fecha: 2022-08-04 T 22:00:00"
+    },
+    {
+        "id": 4,
+        "nombre": "Alexis",
+        "apellido": "Gimenez",
+        "historial_eventos": "Evento en Fanta - Movida tropical - David Leiva - Fecha: 2020-09-04 T 22:00:00"
+    }
+    
+]
