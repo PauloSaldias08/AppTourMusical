@@ -73,12 +73,13 @@ class Aplicacion(tk.Tk):
 
     def cambiar_frame(self, frame_destino):
         frame_destino.tkraise()
-
-    root = tk.Tk()
-    root.title("Locales en la Zona")
-    controlador = ControladorPrincipal(root)
-
+        
 if __name__ == "__main__":
     app = Aplicacion()
     app.mainloop()
+
+root = tk.Tk()
+root.title("Locales en la Zona")
+controlador = ControladorPrincipal(root)
+root.mainloop()
     

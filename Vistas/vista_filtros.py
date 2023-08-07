@@ -9,7 +9,7 @@ class VistaFiltros(tk.Frame):
         self.master = master
         self.controlador = controlador
 
-        self.titulo = tk.Label(self, text="Lista de nombres de los principales eventos")
+        self.titulo = tk.Label(self, text="Lista de nombres de los principales eventos (Para visualizar el mapa debe cerrar la ventana de app de musica)")
         self.titulo.pack(pady=10)
 
         self.listbox = tk.Listbox(self)

@@ -9,7 +9,7 @@ class VistaEventos(tk.Frame):
         self.master = master
         self.controlador = controlador
 
-        self.titulo = tk.Label(self, text="Lista de eventos")
+        self.titulo = tk.Label(self, text="Lista de eventos (Si desea buscar eventos en el mapa debe cerrar la ventana de la app musica)")
         self.titulo.pack(pady=10)
 
         self.listbox = tk.Listbox(self)
