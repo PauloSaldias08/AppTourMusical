@@ -8,8 +8,8 @@ class ControladorFiltros:
 
     def seleccionar_filtro(self):
         """
-        Obtiene el índice del filtro seleccionado y llama a la vista de
-        información para mostrar la información del filtro.
+        Obtiene el índice del nombre del evento seleccionado y llama a la vista de
+        información para mostrar la información del evento (filtro por nombre).
         """
         indice = self.app.vista_filtros.obtener_filtro_seleccionado()
         if indice is not None:

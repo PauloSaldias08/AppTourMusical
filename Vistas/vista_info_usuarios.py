@@ -20,7 +20,7 @@ class VistaInfoUsuarios(tk.Frame):
 
     def mostrar_info_usuario(self, usuario):
         """
-        Muestra la información del evento recibido como parámetro.
+        Muestra la información del usuario recibido como parámetro.
         """
         info = f"Nombre: {usuario.nombre}\nApellido: {usuario.apellido}\nEventos asistidos: {usuario.historial_eventos}"
         self.usuario_label["text"] = info

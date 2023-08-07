@@ -8,7 +8,7 @@ class ControladorEventos:
 
     def seleccionar_evento(self):
         """
-        Obtiene el índice del juego seleccionado y llama a la vista de
+        Obtiene el índice del evento seleccionado y llama a la vista de
         información para mostrar la información del evento.
         """
         indice = self.app.vista_eventos.obtener_evento_seleccionado()
