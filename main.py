@@ -21,7 +21,7 @@ from Controles.controlador_info_filtros import ControladorPrincipal
 class Aplicacion(tk.Tk):
     def __init__(self):
         tk.Tk.__init__(self)
-        self.title("Aplicación de Musica")
+        self.title("Primer ventana - Aplicación de Musica")
         self.geometry("600x600")
         self.resizable(False, False)
         self.inicializar()
@@ -73,13 +73,13 @@ class Aplicacion(tk.Tk):
 
     def cambiar_frame(self, frame_destino):
         frame_destino.tkraise()
-        
+
 if __name__ == "__main__":
     app = Aplicacion()
     app.mainloop()
 
 root = tk.Tk()
-root.title("Locales en la Zona")
+root.title("Segunda ventana - App de musica")
 controlador = ControladorPrincipal(root)
 root.mainloop()
     
