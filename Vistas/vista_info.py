@@ -22,5 +22,5 @@ class VistaInfo(tk.Frame):
         """
         Muestra la información del evento recibido como parámetro.
         """
-        info = f"Nombre: {evento.nombre}\nGénero: {evento.genero}\nArtista: {evento.artista}\nHora de inicio: {evento.hora_inicio}\nHora de finalizacion: {evento.hora_fin}\nImagen del lugar: {evento.imagen}"
+        info = f"Nombre: {evento.nombre}\nGénero: {evento.genero}\nArtista: {evento.artista}\nHora de inicio: {evento.hora_inicio}\nHora de finalizacion: {evento.hora_fin}\nImagen del lugar: {evento.descripcion}"
         self.evento_label["text"] = info

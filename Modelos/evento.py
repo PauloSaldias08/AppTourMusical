@@ -1,7 +1,7 @@
 import json
 
 class Evento:
-    def __init__(self, id, nombre, genero, artista, id_ubicacion ,hora_inicio, hora_fin, imagen):
+    def __init__(self, id, nombre, genero, artista, id_ubicacion ,hora_inicio, hora_fin, descripcion, imagen):
         self.id = id
         self.nombre = nombre
         self.genero = genero
@@ -9,6 +9,7 @@ class Evento:
         self.id_ubicacion = id_ubicacion
         self.hora_inicio = hora_inicio
         self.hora_fin = hora_fin
+        self.descripcion = descripcion 
         self.imagen = imagen
 
     def a_json(self):

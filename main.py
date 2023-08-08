@@ -22,7 +22,7 @@ class Aplicacion(tk.Tk):
     def __init__(self):
         tk.Tk.__init__(self)
         self.title("Primer ventana - Aplicación de Musica")
-        self.geometry("600x600")
+        self.geometry("700x700")
         self.resizable(False, False)
         self.inicializar()
         self.cambiar_frame(self.vista_inicio)

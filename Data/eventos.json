@@ -7,16 +7,18 @@
         "id_ubicacion": 1,
         "hora_inicio": "2023-09-04 T 22:00:00",
         "hora_fin": "2023-09-04 T 00:00:00",
+        "descripcion": "Adriatico eventos se caracteriza por ser un lugar muy atractivo debido a su disenio y seleccion de artistas",
         "imagen":"adriatico.jpeg"
     },
     {
         "id": 2,
         "nombre": "Evento en Boulevard 53",
         "genero": "Folklore",
-        "artista": "Chaqueño Palavecino",
+        "artista": "Chaquenio Palavecino",
         "id_ubicacion": 2,
         "hora_inicio": "2023-10-04 T 20:00:00",
         "hora_fin": "2023-10-04 T 22:00:00",
+        "descripcion": "En Boulevard 53 encontraras a los mejores artistas del folcklore",
         "imagen": "boulevard53.jpeg"  
     },
     {
@@ -27,6 +29,7 @@
         "id_ubicacion": 3,
         "hora_inicio": "2023-08-04 T 23:00:00",
         "hora_fin": "2023-08-04 T 01:00:00",
+        "descripcion": "Emperador eventos se caracteriza por ser un sitio diseniado para cautivar tu atencion, no te arrepentiras",
         "imagen": "emperador.jpg"
     },
     {
@@ -37,6 +40,7 @@
         "id_ubicacion": 4,
         "hora_inicio": "2023-09-04 T 20:00:00",
         "hora_fin": "2023-09-04 T 22:00:00",
+        "descripcion": "Fanta eventos eventos se caracteriza por ser un lugar muy atractivo debido a su disenio y seleccion de artistas",
         "imagen": "fanta.jpg"
     },
     {
@@ -47,6 +51,7 @@
         "id_ubicacion": 5,
         "hora_inicio": "2023-09-04 T 21:00:00",
         "hora_fin": "2023-09-04 T 23:00:00",
+        "descripcion": "Girardot eventos se caracteriza por ser un lugar exclusivo para el rock nacional, te esperamos",
         "imagen": "girardot.jpg"
     },
     {
@@ -57,6 +62,7 @@
         "id_ubicacion": 6,
         "hora_inicio": "2023-09-04 T 20:00:00",
         "hora_fin": "2023-09-04 T 22:00:00",
+        "descripcion": "Konex eventos se caracteriza por ser un lugar muy atractivo debido a su disenio y seleccion de artistas",
         "imagen": "konex.jpg"
     },
     {
@@ -67,6 +73,7 @@
         "id_ubicacion": 7,
         "hora_inicio": "2023-09-04 T 23:00:00",
         "hora_fin": "2023-09-04 T 01:00:00",
+        "descripcion": "El teatro se caracteriza por ser un lugar muy elegido por los saltenios para disfrutar la movida tropical",
         "imagen": "teatro.jpg"
         
     }
