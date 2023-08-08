@@ -9,7 +9,7 @@ class VistaFiltros(tk.Frame):
         self.master = master
         self.controlador = controlador
 
-        self.titulo = tk.Label(self, text="Lista de nombres de los principales eventos (Para buscar eventos en el mapa debe cerrar la primer ventana)")
+        self.titulo = tk.Label(self, text="Lista de los principales artistas (Para buscar eventos en el mapa debe cerrar la primer ventana)")
         self.titulo.pack(pady=10)
 
         self.listbox = tk.Listbox(self)
@@ -34,7 +34,7 @@ class VistaFiltros(tk.Frame):
         filtros = self.controlador.obtener_filtros()
         self.listbox.delete(0, tk.END)
         for filtro in filtros:
-            self.listbox.insert(tk.END, filtro.nombre)
+            self.listbox.insert(tk.END, filtro.artista)
 
     def obtener_filtro_seleccionado(self):
         """

@@ -44,6 +44,6 @@ class VistaInicio(tk.Frame):
         self.boton_usuarios.grid(row=2, column=1, pady=10)
          # Crea el botón para ir a filtros y lo agrega a la vista
         self.boton_filtros = tk.Button(
-            self, text="Filtrar por nombre de evento", command=self.controlador2.mostrar_filtros
+            self, text="Filtrar por artista", command=self.controlador2.mostrar_filtros
         )
         self.boton_filtros.grid(row=2, column=2, pady=10)
